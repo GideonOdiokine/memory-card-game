@@ -49,7 +49,7 @@ function App() {
                 })
                 resetTurn()
             } else {
-                console.log("It's not a match, try again.")
+                console.log("It's not a match")
                 resetTurn()
 
             }
